@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-  🚀 Semana OmniStack 11.0
+  🚀 Be The Hero
 </h4>
 
 <p align="center">
