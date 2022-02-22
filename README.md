@@ -44,6 +44,27 @@ O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribui�
 
 Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A394). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
+## 🚀 INICIALIZAÇÃO
+
+```bash
+# Install the dependencies
+$ yarn install
+$ npm install
+````
+
+Substitua o host pelo seu endereço IP local. Faça o mesmo no arquivo API dentro de services.
+
+```bash
+import axios from "axios";
+
+const api = axios.create({
+  baseURl: "http://192.168.1.4:3333",
+});
+
+export default api;
+
+````
+
 
 ## :memo: Licença
 
