@@ -1,5 +1,6 @@
 <h1 align="center">
     <img alt="BeTheHero" title="#delicinha" src=".github/bethehero.svg" width="200px" />
+   
 </h1>
 
 <h4 align="center">
@@ -28,7 +29,7 @@
 
 ## :rocket: Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido durante a semanaOmnistack11 com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
